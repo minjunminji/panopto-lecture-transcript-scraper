@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+transcripts/
+data/
+error_*.png
+error_screenshot.png
